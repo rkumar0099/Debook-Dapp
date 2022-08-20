@@ -1,20 +1,23 @@
 {
-  "name": "debook-dapp",
+  "name": "webs1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "cra-template": "1.2.0",
+    "@splinetool/react-spline": "^2.2.1",
+    "@splinetool/runtime": "^0.9.79",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "chroma-js": "^2.4.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
-    "@material-ui/core": "^4.12.4",
-    "@material-ui/icons": "^4.11.3",
-    "@metamask/detect-provider": "^1.2.0",
-    "big-integer": "^1.6.51",
-    "bootstrap": "5.1.3",
-    "ipfs-http-client": "^56.0.1",
-    "react-bootstrap": "^2.2.1",
-    "web3": "^1.6.1"
+    "react-scroll": "^1.8.7",
+    "styled-components": "^5.3.5",
+    "swiper": "^8.3.2",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
